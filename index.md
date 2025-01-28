@@ -4,3 +4,7 @@
 ``` javascript
 var myVar = "Hello, Frogbert!";
 ```
+
+- [ ] Say Hello to Frogbert
+- [ ] Praise Frogbert
+- [ ] Frogbert
